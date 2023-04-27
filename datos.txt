@@ -1,6 +1,3 @@
 Nombre: Joel Rodriguez
 Email: jrodriguez2@institutmvm.cat
 Cargo: Alumno
-Nombre: Albert Alonso
-Email: aalonso@institutmvm.cat
-Cargo: Profesor
